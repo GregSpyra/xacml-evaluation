@@ -3,7 +3,7 @@ using Xacml.Core.Runtime;
 using System;
 using System.Xml;
 
-namespace Lagash.XacmlTest
+namespace XacmlTest
 {
   internal class MainClass
   {
